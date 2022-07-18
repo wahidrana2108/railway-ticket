@@ -1,0 +1,16 @@
+.resize img{
+    width: 60px;
+}
+.resize1 img{
+    height: 200px;
+    width: auto;
+}
+
+.counter img{
+    width: 90%;
+}
+
+.arrow img{
+    height: 30px;
+    width: 30px;
+}
