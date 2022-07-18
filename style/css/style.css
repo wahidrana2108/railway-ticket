@@ -1,6 +1,9 @@
 .resize img{
     width: 60px;
 }
+.resize2 img{
+    width: 55px;
+}
 .resize1 img{
     height: 200px;
     width: auto;
@@ -13,4 +16,15 @@
 .arrow img{
     height: 30px;
     width: 30px;
+}
+
+.green-line{
+    height: 4px;
+    width: 100%;
+    background-color: green;
+}
+.black-line{
+    height: 3px;
+    width: 100%;
+    background-color: gray;
 }
