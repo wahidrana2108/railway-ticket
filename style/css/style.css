@@ -28,3 +28,11 @@
     width: 100%;
     background-color: gray;
 }
+
+.card{
+    border: var(--bs-card-border-width) solid var(--bs-card-bg);
+}
+
+.orange-text{
+    color: #DA924E;;
+}
