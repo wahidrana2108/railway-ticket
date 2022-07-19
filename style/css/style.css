@@ -37,6 +37,14 @@
     color: #DA924E;;
 }
 
+.gray-text{
+    color: gray;
+}
+
+.green-text{
+    color: rgb(62, 136, 62);
+}
+
 .contract-width{
     max-width: 600px;
 }
@@ -56,3 +64,4 @@
     text-decoration: none;
     color: green;
 }
+
