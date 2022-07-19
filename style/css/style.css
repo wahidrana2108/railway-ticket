@@ -24,7 +24,7 @@
     background-color: green;
 }
 .black-line{
-    height: 3px;
+    height: 1px;
     width: 100%;
     background-color: gray;
 }
@@ -35,4 +35,8 @@
 
 .orange-text{
     color: #DA924E;;
+}
+
+.contract-width{
+    max-width: 600px;
 }
