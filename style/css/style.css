@@ -1,5 +1,3 @@
-
-
 .resize img{
     width: 60px;
 }
@@ -52,4 +50,9 @@
 #blue{
     background-image: linear-gradient(to right, #388197, #a0e1ec
     );
+}
+
+.decoration a{
+    text-decoration: none;
+    color: green;
 }
